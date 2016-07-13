@@ -643,5 +643,9 @@
     {
         "name": "Dusk",
         "colors": ["#2C3E50", "#FD746C"]
+    },
+    {
+        "name": "Funky",
+        "colors": ["#00baff", "#ba00ff"]
     }
 ]
